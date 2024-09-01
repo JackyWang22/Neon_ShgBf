@@ -1,7 +1,7 @@
 
 # Learn2Reg 2024 SHG-BF Multimodality Registration Challenge
 
-![Next-Gen-NN Team Logo](relative/path/to/your/logo.png) <!-- Replace with your actual logo path -->
+Challenge website: [Learn2Reg](https://learn2reg.grand-challenge.org)
 
 ## 🚀 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the official code repository for the **Learn2Reg 2024 SHG-BF Multimod
 
 ## 📄 Preprint Article
 
-You can read more about our methodology and results in our preprint article available on [arXiv](https://arxiv.org/xxxxx).
+You can read more about our methodology and results in our preprint article available on [arXiv](https://arxiv.org/xxxxx) early accepted by [WBIR 2024](https://www.wbir.info). See you in MICCAI, Morocco!
 
 ## 🛠️ Setup
 
@@ -78,7 +78,3 @@ We welcome contributions! If you have ideas, suggestions, or improvements, pleas
 ## 📧 Contact
 
 For any inquiries or support, please leave comments on issues in this GitHub Repo.
-
----
-
-Made with ❤️ by the **Next-Gen-NN** team
